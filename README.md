@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on open-minded people and actively seeking for a Business Analysts jobs!
 
 📫 **How to reach me**: 
-[LinkedIn: (https://www.linkedin.com/in/linh-do-868a25278/)] 😄
-[Gmail: dnpl129@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/linh-do-868a25278/ 😄
+- Gmail: dnpl129@gmail.com
 
 ⚡ **Fun fact**: I’m a music enthusiast and love singing! I believe creativity fuels productivity and helps me think outside the box.
 

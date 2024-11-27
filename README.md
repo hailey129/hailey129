@@ -32,9 +32,10 @@ This GitHub showcases my exploration of data analytics, focusing on transforming
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/linh-do-868a25278/)  
 * Email: dnpl129@gmail.com  
 
-
 ### 🎵 Fun Fact  
 I'm a **music enthusiast** and love singing! Creativity fuels my productivity and helps me think outside the box.
+
+### ✨ **Looking forward to collaborating and transforming data into impactful stories!** ₊ ⊹
 
 
 <!---

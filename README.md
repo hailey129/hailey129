@@ -12,7 +12,6 @@ This GitHub showcases my exploration of data analytics, focusing on transforming
 🎓 Pursuing a Bachelor of Business (Business Analytics) at the University of Wollongong.  
 💡 I am expanding my expertise in Python, R, SQL, Tableau, and Agile methodologies for data visualisation, machine learning, and business process optimisation.  
 💬 I'm looking to work with you as a ICT Business Analyst to apply my analytical and problem-solving skills.  
-🎀༘ Pronouns: She/Her
 🧸 Hobbies: Singing along whenever I feel happy 
 
 ## 𐙚 Technology
@@ -32,6 +31,7 @@ This GitHub showcases my exploration of data analytics, focusing on transforming
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/linh-do-868a25278/)  
 * Email: dnpl129@gmail.com  
 
+My Tableau profile : [![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&style=flat-square)](https://public.tableau.com/app/profile/hailey.do6608/vizzes)  
 ### 🎵 Fun Fact  
 I'm a **music enthusiast** and love singing! Creativity fuels my productivity and helps me think outside the box.
 

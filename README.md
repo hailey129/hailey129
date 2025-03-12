@@ -2,7 +2,7 @@
 
 🌟 Welcome to my GitHub profile!
 
-I'm a passionate **Business Analytics student** exploring how data can solve real-world problems and drive meaningful decisions.
+I'm a passionate **Business Analytics student** exploring how data can solve real-world problems and drive meaningful decisions in business or ICT context.
 
 This GitHub showcases my exploration of data analytics, focusing on transforming raw data into meaningful insights to empower smarter business strategies and decisions.
 

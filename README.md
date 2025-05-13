@@ -12,7 +12,7 @@ This GitHub showcases my exploration of data analytics, focusing on transforming
 🎓 Pursuing a Bachelor of Business (Business Analytics) at the University of Wollongong.  
 💡 I am expanding my expertise in Python, R, SQL, Tableau, and Agile methodologies for data visualisation, machine learning, and business process optimisation.  
 💬 I'm looking to work with you as a ICT Business Analyst/Data Analyst to apply my analytical and problem-solving skills.  
-🧸 Hobbies: Singing along whenever I feel happy 
+🧸 Hobbies: Playing sport and walking around during sunset 
 
 ## 𐙚 Technology
 

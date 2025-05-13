@@ -28,7 +28,7 @@ This GitHub showcases my exploration of data analytics, focusing on transforming
 
 ## 💌 Feel free to reach me
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](([https://www.linkedin.com/in/hailey-do-868a25278/](https://www.linkedin.com/in/hailey-do-868a25278/)))  
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hailey-do-868a25278/)
 * Email: dnpl129@gmail.com  
 
 My Tableau profile : [![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&style=flat-square)](https://public.tableau.com/app/profile/hailey.do6608/vizzes)  

@@ -24,7 +24,6 @@ This GitHub showcases my exploration of data analytics, focusing on transforming
 
 - Building dashboards for actionable insights.  
 - Exploring Agile applications in Business Analyst roles.  
-- Learning **AWS Cloud Practitioner** for cloud computing knowledge.  
 
 ## 💌 Feel free to reach me
 

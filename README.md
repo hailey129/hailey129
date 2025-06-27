@@ -32,7 +32,7 @@ This GitHub reflects my hands-on exploration of data analytics, reflects my comm
 ## 💌 Feel free to reach me
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hailey-do-868a25278/)
-* Email: dnpl129@gmail.com  
+* Email: haileydo.work@gmail.com  
 
 My Tableau profile : [![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&style=flat-square)](https://public.tableau.com/app/profile/hailey.do6608/vizzes)  
 ### 🎵 Fun Fact  

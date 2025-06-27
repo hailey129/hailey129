@@ -18,7 +18,7 @@ This GitHub reflects my hands-on exploration of data analytics, reflects my comm
 
 ## 𐙚 Technology
 
-- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white), ![R](https://img.shields.io/badge/R-blue?logo=r&logoColor=white), SQL  
+- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white), ![R](https://img.shields.io/badge/R-blue?logo=r&logoColor=white),
 - **Tools**: ![Tableau](https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white), ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-green?logo=microsoft-excel&logoColor=white), ![JIRA](https://img.shields.io/badge/JIRA-blue?logo=jira&logoColor=white), ![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?logo=lucidchart&logoColor=white), ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-red?logo=microsoft-powerpoint&logoColor=white)
 - **Databases**: ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
 - **Automation & Testing**: ![Power Automate](https://img.shields.io/badge/Power%20Automate-blue?logo=microsoft-power-automate&logoColor=white)

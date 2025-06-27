@@ -2,9 +2,11 @@
 
 🌟 Welcome to my GitHub profile!
 
-I'm a passionate **Business Analytics student** exploring how data can solve real-world problems and drive meaningful decisions in business or ICT context.
+I'm a passionate **Business Analytics student** exploring how data can solve real-world problems and drive meaningful decisions in business or ICT context. 
 
-This GitHub showcases my exploration of data analytics, focusing on transforming raw data into meaningful insights to empower smarter business strategies and decisions.
+This GitHub showcases my exploration of data analytics, reflects my commitment to using data not just for exploration, but for solving tangible problems—bridging the gap between information and outcomes that matter to real businesses.
+
+
 
 ## 𐙚 About Me
 📍 I'm currently based in Wollongong, NSW, Australia 🌏. The place where I find the peaceful and white sand on the beach. 

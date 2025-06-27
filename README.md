@@ -25,9 +25,9 @@ This GitHub reflects my hands-on exploration of data analytics, reflects my comm
 
 ## 𐙚 What I'm Working On
 
-- Building dashboards for actionable insights.  
-- Exploring Agile applications in Business Analyst roles.  
-
+- Developing dashboards that help teams see patterns, track performance, and act on insights.
+- Applying Agile methodology to improve communication, iteration, and outcomes in business analysis tasks.
+  
 ## 💌 Feel free to reach me
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hailey-do-868a25278/)
